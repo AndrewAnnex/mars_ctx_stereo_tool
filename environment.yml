@@ -1,0 +1,10 @@
+name: mars_ctx_stereo_tool
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - jupyterlab
+  - ipyleaflet
+  - nodejs
+  - tqdm
+  - sidecar
